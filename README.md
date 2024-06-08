@@ -1,6 +1,3 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
-
 
 # Tutorial de Validación de Formulario con Firebase
 
